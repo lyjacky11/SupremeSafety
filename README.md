@@ -6,7 +6,7 @@
 Supreme Safety App brought to you by Team 6632.
 
 ## Download:
-[https://rebrand.ly/supreme](https://rebrand.ly/supreme)
+[https://rebrand.ly/supremeapk](https://rebrand.ly/supremeapk)
 
 ## Screenshots:
 <div align="left">
