@@ -1,7 +1,7 @@
 # Supreme Safety App
-[![GitHub latest release version](https://img.shields.io/github/release/SupremeRobotics/SupremeSafety.svg?label=Latest&maxAge=600)](https://github.com/SupremeRobotics/SupremeSafety/releases/latest)
-[![GitHub latest release date](https://img.shields.io/github/release-date/SupremeRobotics/SupremeSafety.svg?label=Released&maxAge=600)](https://github.com/SupremeRobotics/SupremeSafety/releases/latest)
-[![Github last commit date](https://img.shields.io/github/last-commit/SupremeRobotics/SupremeSafety.svg?label=Updated&maxAge=600)](https://github.com/SupremeRobotics/SupremeSafety/commits)  
+[![GitHub latest release version](https://img.shields.io/github/release/lyjacky11/SupremeSafety.svg?label=Latest&maxAge=600)](https://github.com/lyjacky11/SupremeSafety/releases/latest)
+[![GitHub latest release date](https://img.shields.io/github/release-date/lyjacky11/SupremeSafety.svg?label=Released&maxAge=600)](https://github.com/lyjacky11/SupremeSafety/releases/latest)
+[![Github last commit date](https://img.shields.io/github/last-commit/lyjacky11/SupremeSafety.svg?label=Updated&maxAge=600)](https://github.com/lyjacky11/SupremeSafety/commits)  
   
 Supreme Safety App brought to you by Team 6632.
 
