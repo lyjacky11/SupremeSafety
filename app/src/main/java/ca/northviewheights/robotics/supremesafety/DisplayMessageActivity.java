@@ -36,11 +36,11 @@ public class DisplayMessageActivity extends AppCompatActivity {
     }
 
     public void goToActivity1 (View view){
-        CopyReadAssets("manual.pdf");
+        CopyReadAssets("2019-safety-manual.pdf");
     }
 
     public void goToActivity2 (View view){
-        CopyReadAssets("brochure.pdf");
+        CopyReadAssets("team-6632-brochure.pdf");
     }
 
     private void CopyReadAssets(String name)
